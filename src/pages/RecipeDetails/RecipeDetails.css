@@ -1,0 +1,33 @@
+.box{
+  display:flex;
+  flex-direction:column;
+  flex-wrap:wrap;
+  justify-content:center;
+  align-items:center;
+  border:2px solid #a6bcd9;
+  width:70%;
+  margin:150px auto;
+  padding:20px;
+  border-radius: 10px
+}
+
+.childBox{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  flex-direction:column;
+}
+
+.label{
+  color:#c95fec !important;
+}
+
+.title{
+  color:#20cfbb;
+  margin-bottom:10px;
+  font-family:cursive;
+}
+
+.text{
+  color:#f1f1f1
+}

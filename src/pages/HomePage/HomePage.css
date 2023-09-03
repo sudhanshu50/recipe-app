@@ -1,0 +1,35 @@
+.heading{
+  color:#20cfbb;
+  font-family:cursive;
+  margin-top:5px;
+  padding:10px
+}
+
+.heading2{
+  color:beige;
+  margin:8px;
+  padding:10px
+}
+
+.mainBox{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+}
+
+.dish{
+  color:white;
+}
+
+.marq{
+  padding:8px;
+}
+
+.btn{
+ 
+  color:black;
+  border-radius: 5px;
+  background-color:#b7b7e1 !important;
+  
+}
